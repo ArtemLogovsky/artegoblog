@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: "Обо мне"
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+1987 года рождения. Проживаю в Киеве.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+## Мои хобби
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Люблю читать и слушать художественную литературу, особенно фантастику, особенно ["Модель для Сборки"](https://ru.wikipedia.org/wiki/Модель_для_сборки_(радиопередача)). Не могу дня прожить без пеших прогулок по городу. Иногда играю в компьютерные игры.
