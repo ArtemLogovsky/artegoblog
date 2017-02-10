@@ -2,7 +2,7 @@
 layout: post
 title:  "Выбираю платформу для блога"
 date:   2017-02-07 21:30:13 +0200
-categories: jekyll update
+categories: posts
 ---
 Сегодня все свободное время потратил на поиски платформы для блога.
 

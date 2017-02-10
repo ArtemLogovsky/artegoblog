@@ -2,7 +2,7 @@
 layout: post
 title:  "Определился с платформой"
 date:   2017-02-08 21:30:13 +0200
-categories: jekyll update
+categories: posts
 ---
 
 Сегодня усердно изучал мануал по Jekyll и немного потестировал функционал. 

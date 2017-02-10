@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome! Блог на GitHub pages и Jekyll"
 date:   2017-02-09 21:30:13 +0200
-categories: jekyll update
+categories: posts
 ---
 
 Ура! Я запустил блог.
