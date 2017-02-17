@@ -25,12 +25,14 @@ github_username:
 disqus:
   shortname: artego-space
 google_analytics: UA-45930894-3
+lang: ru
 
 # Build settings
 markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - jekyll-seo-tag
 exclude:
   - Gemfile
   - Gemfile.lock
