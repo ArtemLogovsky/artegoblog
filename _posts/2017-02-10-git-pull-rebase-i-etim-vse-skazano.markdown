@@ -1,6 +1,6 @@
 ---
 layout: post
-title: git pull --rebase. И этим все сказано!
+title: Когда применить git pull --rebase
 date: 2017-02-10 16:20:00 +0200
 categories: posts
 ---
