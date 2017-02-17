@@ -24,6 +24,7 @@ twitter_username:
 github_username:
 disqus:
   shortname: artego-space
+google_analytics: UA-45930894-3
 
 # Build settings
 markdown: kramdown
