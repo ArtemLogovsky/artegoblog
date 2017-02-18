@@ -2,6 +2,7 @@
 layout: post
 title:  "Welcome! Блог на GitHub pages и Jekyll"
 date:   2017-02-09 21:30:13 +0200
+description: Кто есть кто. Краткий обзор сервисов GitHub, GitHub Pages и Jekyll.
 categories: posts
 ---
 

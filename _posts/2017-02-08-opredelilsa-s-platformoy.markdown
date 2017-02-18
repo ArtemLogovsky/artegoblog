@@ -2,6 +2,7 @@
 layout: post
 title:  "Определился с платформой"
 date:   2017-02-08 21:30:13 +0200
+description: Просто, легко и быстро. Одним словом - Jekyll.
 categories: posts
 ---
 
