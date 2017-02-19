@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Обо мне"
+nav_bar_include: true
 permalink: /about/
 ---
 
