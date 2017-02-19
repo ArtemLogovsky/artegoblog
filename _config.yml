@@ -37,4 +37,3 @@ exclude:
   - Gemfile
   - Gemfile.lock
 permalink: /:title 
-environment: production
